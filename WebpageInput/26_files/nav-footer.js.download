@@ -1,0 +1,757 @@
+var pageIndex = "";
+var pageGovernance = "";
+var pageAdmissions = "";
+var pageAcademics = 'class="mega-menu"';
+var pageFacilities = "";
+var pageExamination = "";
+var pagePlacement = "";
+var pageContact = "";
+var pageSupport = "";
+var pageReports = "";
+
+var PAGE = window.location.pathname.split("/").pop();
+var isOthers = true;
+var isSubBack = "";
+
+switch(PAGE) {
+case 'index.html':
+	isOthers = false;
+	break;
+case 'about-us.html':
+	pageIndex = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'governance.html':
+	pageGovernance = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'gov-others.html':
+	pageGovernance = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'admissions.html':
+	pageAdmissions = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'academics.html':
+	pageAcademics = 'class="mega-menu current-menu-item"';
+	isOthers = false;
+	break;
+case 'examination.html':
+	pageExamination = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'placement.html':
+	pagePlacement = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'contact-us.html':
+	pageContact = 'class="current-menu-item"';
+	isOthers = false;
+	break;
+case 'reports.html':
+	isOthers = false;
+	break;
+case 'news.html':
+	isOthers = false;
+	break;
+case 'events.html':
+	isOthers = false;
+	break;
+}
+
+
+if(isOthers){	
+	if(window.location.href.indexOf("facilities") > -1) {    
+		pageFacilities = 'class="current-menu-item"';          
+	} 
+	
+	isSubBack = '../';
+}
+
+// Navbar
+var nav = '<div id="kopa-header-bottom" >'+
+''+
+'				<div class="container">'+
+''+
+'					<div class="row">'+
+''+
+'						<div class="col-md-12 col-sm-12 col-sx-12">'+
+''+
+'							<nav id="main-nav">'+
+''+
+'								<ul id="main-menu" class="clearfix">'+
+'									<li '+pageIndex+'>'+
+'										<a href='+isSubBack+'about-us.html>About Us</a>'+
+'										<ul>'+
+'											<li class="current-menu-item">'+
+'												<a href='+isSubBack+'about-us.html\>Overview</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'about-us.html#history\>Evolution</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageGovernance+'>'+
+'										<a href='+isSubBack+'governance.html>Governance</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'governance.html#bom\>Board of Management</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'gov-others.html\>Other Committee</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageAdmissions+'>'+
+'										<a href='+isSubBack+'admissions.html>Admissions</a>'+
+''+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#po\>Programs Offered</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#research-programs\>Research Programs</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#prospectus\>Prospectus</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#application\>Application Form</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#scholarship\>Scholarship Details</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#contact\>Contact Details</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageAcademics+'>'+
+'										<a href="#">Academics</a>'+
+'										<div class="sf-mega sf-mega-s1">'+
+'											<div class="row">'+
+'												<div class="col-md-2 col-sm-2 col-xs-12">'+
+''+
+'													<div class="row">'+
+'														<div class="col-md-12 col-sm-12 col-xs-12">'+
+''+
+'															<ul class="toggle-view kopa-toggle-2">'+
+'																<li class="clearfix">'+
+'																	<a href='+isSubBack+'department/rnd.html> <h6><i class="fa fa-soccer-ball-o"></i>R & D</h6></a>																	'+
+'																	<div class="clear"></div>																	'+
+'																</li>'+
+'																'+
+'															</ul><!--end:toggle-view-->'+
+'														</div>														'+
+'													</div>'+
+''+
+'												</div>'+
+'												<!-- col-md-4 -->												'+
+'												'+
+'												<div class="col-md-10 col-sm-10 col-xs-12">'+
+''+
+'													<div class="row">'+
+'														<div class="col-md-4 col-sm-4 col-xs-12">'+
+'															<div class="widget clearfix widget_nav_menu">'+
+''+
+'																<h4 class="widget-title">A-D</h4>'+
+'																<div class="menu-menu-container">'+
+'																	<ul class="menu">'+
+'																		'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'																			<a href='+isSubBack+'department/architecture.html\>Architecture</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'																			<a href='+isSubBack+'department/biotechnology.html\>Biotechnology</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/chemical-engineering.html\>Chemical Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/chemistry.html\>Chemistry</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/civil-engineering.html\>Civil Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/cse.html\>Computer Science & Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/mca.html\>Computer Applications(MCA)</a>'+
+'																		</li>'+
+'																	</ul>'+
+'																</div>'+
+'															</div>'+
+'															<!-- widget -->'+
+'														</div>'+
+'														'+
+'														<div class="col-md-4 col-sm-4 col-xs-12">'+
+'															<div class="widget clearfix widget_nav_menu">'+
+''+
+'																<h4 class="widget-title">E-L</h4>'+
+'																<div class="menu-menu-container">'+
+'																	<ul class="menu">'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'																			<a href='+isSubBack+'department/ece.html\>Electronics & Communication Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'																			<a href='+isSubBack+'department/eie.html\>Electronics & Instrumentation Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/eee.html\>Electrical & Electronics Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/humanities.html\>Humanities</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/iem.html\>Industrial Engineering & Management</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/ise.html\>Information Science & Engineering</a>'+
+'																		</li>'+
+'																	</ul>'+
+'																</div>'+
+'															</div>'+
+'															<!-- widget -->'+
+'														</div>'+
+'														'+
+'														<div class="col-md-4 col-sm-4 col-xs-12">'+
+'															<div class="widget clearfix widget_nav_menu">'+
+''+
+'																<h4 class="widget-title">M-Z</h4>'+
+'																<div class="menu-menu-container">'+
+'																	<ul class="menu">'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'																			<a href='+isSubBack+'department/maths.html\>Mathematics</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'																			<a href='+isSubBack+'department/mba.html\>Management Studies(MBA)</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/me.html\>Mechanical Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/medical-engineering.html\>Medical Electronics</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/physics.html\>Physics</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/te.html\>Telecommunication Engineering</a>'+
+'																		</li>'+
+'																	</ul>'+
+'																</div>'+
+'															</div>'+
+'															<!-- widget -->'+
+'														</div>														'+
+'													</div>'+
+''+
+'												</div>'+
+'												<!-- col-md-7 -->'+
+'											</div>'+
+'											<!-- row -->'+
+'										</div>'+
+'										<!-- sf-mega -->'+
+'									</li>'+
+'									<li '+pageFacilities+'>'+
+'										<a href="#">Facilities</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/hostel.html\>Hostel</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/internet.html\>Internet Center</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/gym.html\>Gym</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/library.html\>Library</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/others.html\>Others Facilities</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageExamination+'>'+
+'										<a href='+isSubBack+'examination.html#exam-section>Examination</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#process\>Process</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#circulars\>Circulars</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#results\>Results</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#malpractice\>Malpractice</a>'+
+'											</li>'+
+''+
+'										</ul>'+
+'									</li>'+
+'									<li '+pagePlacement+'>'+
+'										<a href='+isSubBack+'placement.html>Placement</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'placement.html#overview\>Overview</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'placement.html#testimonial\>Testimonial</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'placement.html#recruiters\>Our Recruiters</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageContact+'>'+
+'										<a href='+isSubBack+'contact-us.html\>Contact Us</a>'+
+'									</li>'+
+''+
+'								</ul>'+
+'								<!-- main-menu -->'+
+''+
+'								<nav class="main-nav-mobile clearfix" style="width:100%">'+
+'									<button aria-controls="bs-navbar" aria-expanded="false" class="collapsed navbar-toggle pull" data-target="#bs-navbar" data-toggle="collapse" type="button"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>'+
+'									<ul class="main-menu-mobile clearfix" >'+
+'									<li '+pageIndex+'>'+
+'										<a href='+isSubBack+'about-us.html>About Us</a>'+
+'										<ul>'+
+'											<li class="current-menu-item">'+
+'												<a href='+isSubBack+'about-us.html\>Overview</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'about-us.html#history\>History</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'about-us.html#administration\>Vision & Mission</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'about-us.html#ranking\>Quality Policy</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'about-us.html#testimonial\>Campus Tour</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'about-us.html#alumni\>Alumni</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageGovernance+'>'+
+'										<a href='+isSubBack+'governance.html>Governance</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'governance.html#bom\>Board of Management</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'governance.html#governing_body\>Governing Body</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'governance.html#finance_committee\>Finance Committee</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'governance.html#academic_council\>Academic Council</a>'+
+'											</li>'+
+''+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageAdmissions+'>'+
+'										<a href='+isSubBack+'admissions.html>Admissions</a>'+
+''+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#po\>Programs Offered</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#research-programs\>Research Programs</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#prospectus\>Prospectus</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#application\>Application Form</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#scholarship\>Scholarship Details</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#ss\>Scholarship Statistics</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'admissions.html#contact\>Contact Details</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+
+'									<li '+pageAdmissions+'>'+
+'										<a href="#">Academics</a>'+
+
+	'									<li '+pageAdmissions+'>'+
+	'										<a href="#">A-D</a>'+
+	'										<ul>'+
+	'											<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'																			<a href='+isSubBack+'department/architecture.html\>Architecture</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'																			<a href='+isSubBack+'department/biotechnology.html\>Biotechnology</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/chemical-engineering.html\>Chemical Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/chemistry.html\>Chemistry</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/civil-engineering.html\>Civil Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/cse.html\>Computer Science & Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/mca.html\>Computer Applications(MCA)</a>'+
+'																		</li>'+
+	'										</ul>'+
+	'									</li>'+
+	
+	'									<li '+pageAdmissions+'>'+
+	'										<a href="#">E-l</a>'+
+	'										<ul>'+
+	'											<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'																			<a href='+isSubBack+'department/ece.html\>Electronics & Communication Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'																			<a href='+isSubBack+'department/eie.html\>Electronics & Instrumentation Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/eee.html\>Electrical & Electronics Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/humanities.html\>Humanities</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/iem.html\>Industrial Engineering & Management</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/ise.html\>Information Science & Engineering</a>'+
+'																		</li>'+
+	'										</ul>'+
+	'									</li>'+
+	
+	'									<li '+pageAdmissions+'>'+
+	'										<a href="#">M-Z</a>'+
+	'										<ul>'+
+	'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'																			<a href='+isSubBack+'department/maths.html\>Mathematics</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'																			<a href='+isSubBack+'department/mba.html\>Management Studies(MBA)</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'																			<a href='+isSubBack+'department/me.html\>Mechanical Engineering</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'																			<a href='+isSubBack+'department/medical-engineering.html\>Medical Electronics</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/physics.html\>Physics</a>'+
+'																		</li>'+
+'																		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'																			<a href='+isSubBack+'department/te.html\>Telecommunication Engineering</a>'+
+'																		</li>'+
+	'										</ul>'+
+	'									</li>'+
+'									</li>'+
+
+
+'									<li '+pageFacilities+'>'+
+'										<a href="#">Facilities</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/hostel.html\>Hostel</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/internet.html\>Internet Center</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/gym.html\>Gym</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/library.html\>Library</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'facilities/others.html\>Other Facilities</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageExamination+'>'+
+'										<a href='+isSubBack+'examination.html>Examination</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#process\>Process</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#circulars\>Circulars</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#results\>Results</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'examination.html#malpractice\>Malpractice</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pagePlacement+'>'+
+'										<a href='+isSubBack+'placement.html>Placement</a>'+
+'										<ul>'+
+'											<li>'+
+'												<a href='+isSubBack+'placement.html#overview\>Overview</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'placement.html#testimonial\>Testimonial</a>'+
+'											</li>'+
+'											<li>'+
+'												<a href='+isSubBack+'placement.html#recruiters\>Our Recruiters</a>'+
+'											</li>'+
+'										</ul>'+
+'									</li>'+
+'									<li '+pageContact+'>'+
+'										<a href='+isSubBack+'contact-us.html\>Contact Us</a>'+
+'									</li>'+
+'									</ul>'+
+'								</nav>'+
+'								<!--/main-menu-mobile-->'+
+''+
+'							</nav>'+
+'							<!-- main-nav -->'+
+''+
+'						</div>'+
+'						<!-- col-md-12 -->'+
+''+
+'					</div>'+
+'					<!-- row -->'+
+''+
+'				</div>'+
+'				<!-- container -->'+
+''+
+'			</div>'+
+'			<!-- kopa-header-bottom -->'+
+''+
+'		</div>'+
+'		<!-- kopa-page-header -->';
+	
+;
+
+document.getElementById('my-nav').innerHTML+=nav;
+
+// Footer
+var footer = '<div id="bottom-sidebar">'+
+''+
+'				<div class="container">'+
+''+
+'					<div class="row">'+
+''+
+'						<div class="col-md-4 col-sm-4 col-xs-12">'+
+''+
+'							<div id="footer-logo-image">'+
+'								<a><img src="http://d2f4gkrrb0ywjm.cloudfront.net/logo-white.png" alt=""></a>'+
+'							</div>'+
+''+
+'							<div class="widget widget_text">'+
+'								<p align="center">'+
+'									Autonomous Institution Affiliated to VTU'+
+'								</p>'+
+'							</div>'+
+''+
+'							<!-- widget -->'+
+''+
+'						</div>'+
+'						<!-- col-md-4 -->'+
+''+
+'						<div class="col-md-5 col-sm-5 col-xs-12">'+
+''+
+'							<div class="row">'+
+''+
+'								<div class="col-md-6 col-sm-12 col-xs-12">'+
+'									<div class="widget clearfix widget_nav_menu">'+
+''+
+'										<h4 class="widget-title">Supporting Sections</h4>'+
+'										<div class="menu-menu-container">'+
+'											<ul class="menu">'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href='+isSubBack+'support/proctorial-system.html\>Proctorial System</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-530 current_page_item menu-item-532">'+
+'													<a href='+isSubBack+'support/sports.html\>Sports</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'													<a href='+isSubBack+'support/nss.html\>NSS</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'													<a href='+isSubBack+'support/deca.html\>Dept. Of Extra-Curricular Activities</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'													<a href='+isSubBack+'support/edc.html\>CATCE/EDC</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-530 current_page_item menu-item-532">'+
+'													<a href='+isSubBack+'support/cocurricular.html\>Co-curricular Activities</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'													<a href='+isSubBack+'support/alumni.html\>Alumni</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'													<a href='+isSubBack+'support/TEQIP.html\>TEQIP</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'													<a href='+isSubBack+'support/mandatory-committees.html\>Mandatory Committees</a>'+
+'												</li>'+
+'											</ul>'+
+'										</div>'+
+'									</div>'+
+'									<!-- widget -->'+
+'								</div>'+
+''+
+'								<div class="col-md-6 col-sm-12 col-xs-12">'+
+'									<div class="widget clearfix widget_nav_menu">'+
+''+
+'										<h4 class="widget-title">Reports & Notifications</h4>'+
+'										<div class="menu-menu-container">'+
+'											<ul class="menu">'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href='+isSubBack+'reports.html#\>VTU Audit Report</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-530 current_page_item menu-item-532">'+
+'													<a href='+isSubBack+'reports.html#NAAC\>NAAC</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'													<a href='+isSubBack+'reports.html#NIRF\>NIRF</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540">'+
+'													<a href='+isSubBack+'reports.html#NBA\>NBA</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541">'+
+'													<a href='+isSubBack+'reports.html#AICTE\>AICTE</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542">'+
+'													<a href='+isSubBack+'reports.html#Sudarshana\>Sudarshana Magazine</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'													<a href='+isSubBack+'reports.html#Pradarshana\>Pradarshana</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-543">'+
+'													<a href='+isSubBack+'reports.html#Sampige\>Sampige Bulletin</a>'+
+'												</li>'+
+'											</ul>'+
+'										</div>'+
+'									</div>'+
+'									<!-- widget -->'+
+'								</div>'+
+''+
+'							</div>'+
+''+
+'						</div>'+
+'						<!-- col-md-4 -->'+
+''+
+'<div class="col-md-3 col-sm-3 col-xs-12">							'+
+''+
+'							<div class="widget kopa-social-link-widget">'+
+''+
+'								<div class="widget clearfix widget_nav_menu">'+
+''+
+'										<h4 class="widget-title">Important Links</h4><br>'+
+'										<div class="menu-menu-container">'+
+'											<ul class="menu">'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href="https://s3-us-west-2.amazonaws.com/msrit/NIRF_DETAILS_2017.rar" target="_blank">NIRF Details 2017</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href="http://parents.msrit.edu/" target="_blank">Student Information Systems</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-530 current_page_item menu-item-532">'+
+'													<a href="http://exam.msrit.edu/" target="_blank">Results</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537">'+
+'													<a href="https://www.mobile.vijayabankonline.in/feehive2/feehive/login/MSRIT" target="_blank">Pay Fee Online</a>'+
+'												</li>												'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href="http://email.msrit.edu/" target="_blank">Faculty Email Login</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href="http://payse.cash/wp-content/uploads/2017/03/msrit-intro.pdf" target="_blank">MeraPurse</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+'													<a href="https://smarthubeducation.hdfcbank.com/SmartFees/Landing.action?instId=2532" target="_blank">Fee Collection</a>'+
+'												</li>'+
+'												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">'+
+
+'<div class="container">'+
+'	<div class="row">'+
+'    '+
+'    '+
+'	<div id="myModal" class="modal fade in">'+
+'        <div class="modal-dialog">'+
+'            <div class="modal-content">'+
+' '+
+'                <div class="modal-header">'+
+'                    <a class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>'+
+'                    <h4 class="modal-title">RATE OUR WEBSITE</h4>'+
+'                </div>'+
+'                <div class="modal-body">'+
+'                    <h5 >Your feedbacks and rating are important to us. For more feedbacks and issues regarding website, kindly drop a mail to the developers at hi@weloftlabs.com. Thank you.</h4>'+
+'                    <div id="wpac-rating"></div>'+
+'                </div>'+
+'                <div class="modal-footer">'+
+'                    <div class="btn-group">'+
+'                        <button class="btn btn-danger" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Close</button>'+
+'                    </div>'+
+'                </div>'+
+' '+
+'            </div><!-- /.modal-content -->'+
+'        </div><!-- /.modal-dalog -->'+
+'    </div><!-- /.modal -->'+
+'    '+
+'<a data-toggle="modal" href="#myModal" class="btn btn-primary" style="margin-left: 10px;"> RATE OUR WEBSITE</a>'+
+''+
+''+
+'	</div>'+
+'</div>';
+	
+
+'												</li>'+
+'											</ul>'+
+'										</div>'+
+''+
+'							</div>'+
+'							<!-- kopa-social-link-widget -->'+
+''+
+'						</div>'+
+'						<!-- col-md-4 -->';
+	
+
+'					</div>'+
+'					<!-- row -->'+
+''+
+'				</div>'+
+'				<!-- container -->'+
+''+
+'			</div>';
+	
+;
+
+document.getElementById('my-footer').innerHTML+=footer;
+
+
+(function(i,s,o,g,r,a,m) {
+		i['GoogleAnalyticsObject']=r;
+		i[r]=i[r]||
+		function() {
+		(i[r].q=i[r].q||[]).push(arguments)
+		},i[r].l=1*new Date();
+		a=s.createElement(o), m=s.getElementsByTagName(o)[0];
+		a.async=1;
+		a.src=g;
+		m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create','UA-71388201-8','auto');
+			ga('send', 'pageview', location.pathname);

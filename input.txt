@@ -1,0 +1,288 @@
+Research Publication
+Anita Kanavalli, P Deepa Shenoy, Venugopal K R, L M Patnaik, "Pollution Monitoring using Data Dissemination in Adhoc Sensor Networks" , Special Issue of Journal on Lateral Computing, Vol 3, No. 1, pp 27-39, August 2006,ISSN 0973-208X
+Anita Kanavalli, P Deepa Shenoy, Venugopal K R, L M Patnaik, "A Flat Routing Protocol for Sensor Networks", In International Journal on Information Processing, IJIP, 3(4),96-104,2009, ISSN: 0973-8215
+Ajina A, Anita Kanavalli and P Deepa Shenoy, "Energy Efficient, Power Aware Routing Algorithm for Sensor Network", International Journal of Computer Theory and Engineering Volume 3, Number 1, pp 148-152, February 2011 DOI: 10.7763/IJCTE.2011.V3.297
+Anita Kanavalli, P Deepa Shenoy, Venugopal K R, L M Patnaik, "Recovery Based Time Synchronization for Wireless Networks", International Journal on Computer Science and Engineering, Vol 3,No.11,pp 3596-3605,ISSN:0975- 3397
+Anita Kanavalli, Bharath GP,P Deepa Shenoy,Venugopal K R,LM Patnaik,"Clustering Protocol for Extending the Network Lifetime and Re- programming the Wireless Sensor Network",International Journal of Advances in Knowledge Engineering and Computer Science, Vol 1,No.1, pp 54-67,2012,ISSN:2277-6923
+Sini Anna Alex, Anita Kanavalli, "Context aware computing algorithms using Location Management Scheme", International Journal of Scientific and Engineering Research (IJSER) with impact factor 1.4, Volume 5, Issue1, (ISSN 2229-5518), January 2014 Edition.
+Roopashree R, Anita Kanavalli, "Study of Secure and Energy Efficient Hierarchical Routing Protocols in WSN", Int.J.of Engineering Research and Technology (ISSN: 2778-0181), Volume 3, Issue 6, Publisher: ESRSA Publication, 2015
+Anita Kanavalli, P Deepa Shenoy, Venugopal K R, L M Patnaik, " Pollution Monitoring using Data Dissemination in Adhoc Sensor Networks", Proceedings of ICEMC2, PESIT August 2006
+Thriveni J, Anita Kanavalli, K R Venugopal, and L M Patnaik, "Probabilistic Mean Energy Flooding to Increase the Survivability of MANET", Proceedings of The International Multi Conference of Engineers and Computer Scientists IMECS 2008, March 19-21, 2008, Hong Kong , pp1066-1071
+Anita Kanavalli, L V Udaya Ranga, Sathish A G, P Deepa Shenoy, Venugopal K R, L M Patnaik, "Proactive Sliding Window Strategy for Merging Sensor-Enabled Cars" , Proceedings of 16th IEEE Conference on Networks, ICON 2008, December 12-14 2008, New Delhi pp 1-5 Digital Object Identifier : 10.1109/ICON.2008.4772611
+
+~Research Publication
+R. Srinivasan, S. S. Iyengar, "Cloud-based Generation and Transfer of Solar Power in a Global Scale", International Journal of Computer Applications (IJCA),Vol. 136, No.7, Feb18, 2016
+J.Godwin Ponsam, R.Srinivasan," Trust Management Scheme for MANET", International Journal of Applied Engineering Research, Volume 10, 2015
+J.Godwin Ponsam, R.Srinivasan, "Multilayer Intrusion detection in MANET", International Journal of Computer Applications, volume 98,July 2014
+J.Godwin Ponsam, R.Srinivasan,"A survey on MANET Security Challenges, Attacks and its Countermeasures", International Journal of Emerging Trends and Technology in Computer Science , Volume 3,Feb 2014
+Krishnakumar, S., and Srinivasan, R., "Securing Tesla Broadcast Protocol with Diffie-Hellman Key Exchange", International Journal of Computer Engineering and Technology, 4 (1), 2013, pp. 152-170, 0976-6367
+Krishnakumar, S., and Srinivasan, R., "A Multi-Stage Optimization Model with Minimum Energy Consumption- Wireless Mesh Networks", International Journal of Advanced Computer Science and Applications, ISSN: 2158 – 107X, 3 (9), 2012
+Krishnakumar, S., and Srinivasan, R., "An Optimal Key Management Scheme for Group Key Sharing with Polynomial Expression", Research Journal of Information Technology, ISSN: 1815-7432, 4 (4), 176-185, 2012
+Krishnakumar S and Srinivasan R," Effective Admission Control Mechanism Based Performance in Wireless Mesh Networks", European Journal of Scientific Research, Vol. 59, Issue 4, Sept. 2011
+Naveen N. C, Srinivasan R, Natarajan S, "Application of Change Point Outlier Detection Methods in Real time Intrusion Detection", International conference on Advanced Computer Science Applications and technologies, Kualalumpur, Mlaysia, Nov. 2012, Published in IEEE Explore
+Naveen N. C, Srinivasan R, Natarajan S, " Application of Relevance Vector Machines in Real Time Intrusion Detection", International Journal of Advanced Computer Science Applications, 3(9), 2012
+
+
+~Research Publication
+"Event Driven Architectural Style for Customer Centric eGovernment System", International Journal of Software Engineering and Its Applications, Vol.8, No.6, pp.67-84, June 2014.
+"The Role of Business Process Model in Customer Centric eGovernment System", International Journal of Computer Applications(IJCA), Volume 72, Number 12, pp 13-23, June 2013.
+"Modeling of Customer Centric eGovernment System using Petri Nets", International Conference on Egovernance & Cloud Computing Services (EGov ’12), Proceedings published by International Journal of Computer Applications(IJCA), EGOV(1):31-40, December 2012
+"Design and development of Geographic Information System for local city government", International Conference on Information Processing (ICIP-2007), Bangalore, August, 2007.
+"Architectural framework for eGovernment", ICSE-2010, Dayananda sagar College of Engineering, April 21-23, 2010.
+"eGovernance and its software architecture", DOS- ISRO Workshop on Computer and Information Technology – 2008 (WCIT-2008) held at Vikram Sarabhai Space Centre, Thiruvananthapuram on 10-12, December, 2008.
+"Geographic Information System for e-Governance", National Symposium on Spatial Information Technology, PESIT, Bangalore, June 2007.
+"Geographic Information System for BMP", ICMA seminar on Resources cities program at Bangalore, September 2004.
+"Property tax Reforms and online collection", National conference on good governance held at New Delhi, June, 2003.
+"Computerised Civil Registration system in BMP", National Conference on million plus cities at Indore, February, 2003.
+
+
+~Research Publication
+none
+
+~Research Publication
+Dr Annapurna P Patil, Shivam Dalmia, Syed Abu Ayub Ansari, Tanay Aul, Varun Bhatnagar, "Automatic Text Summarizer ", Third International Conference on Advances in Computing, Communications and Informatics - ICACCI-2014, September 24-27, 2014, Greater Noida, India. (Best Paper Award 2014) DOI: 10.1109/ICACCI.2014.6968629.
+Dr. Annapurna P Patil, Aparna S, Varsha Chandan B, Greeshma R, Akshatha H P, "An Improved Energy Efficient AODV Routing Protocol for MANETs", 11th International Conference on Wireless and Optical Communications Networks WOCN2014 Next Generation Internet, 11-13th of September 2014, Vijayawada, Andhra Pradesh, INDIA. DOI: 10.1109/WOCN.2014.6923063.
+Annapurna P Patil, K Rajanikant, Sabarish, Surabi, Madhan, Madhuri, "Enabling Self Organizing Behavior in MANETs: An Experimental Study", 48th Annual Convention, CSI, Vishakhapatnam, Springer AISC Series, 13-15 Dec 2013. (Best Project Award, MSRIT 2013). DOI: 10.1007/978-3-319-03107-1_48.
+Annapurna P. Patil, K. Rajanikant, Desai Neel, N. Ganesh, and P. Amala, "Performance Evaluation of Switching between Routing Protocols in Mobile Ad Hoc Networks", The International Conference on Informatics Engineering & Information Science, University Technology Malaysia, Malaysia Nov. 14-16, 2011, ICIEIS 2011, Part IV, CCIS 254, pp. 213–222, 2011.© Springer-Verlag Berlin eidelberg 2011. DOI: 10.1007/978-3-642-25483-3_17, ISBN: 978-3-642-25482-6 (Print) 978-3-642-25483-3 (Online), ISSN: 1865-0929
+Annapurna P Patil, Dr K Rajanikant, Apoorva Yadhava, Rakshith H P, Joseph Tom, "Implementation and Performance Evaluation of an Adaptive Routing Algorithm in MANETs", The Second International Workshop on Mobile and Wireless Network Security (MWNS 2011),Changsha, China,Nov 16-18 2011. DOI: 10.1109/TrustCom.2011.258
+Annapurna P Patil, Dr K RajaniKant, Bathey Sharanya, M P Dinesh Kumar, Malavika J, "Design and Implementation of Combined Energy Metric AODV (CEM_AODV) Routing Protocol for MANETs", International Conference on Electronics, Networks and Computers 2011(ICENC 2011),Kuala Lumpur, Malaysia, November 4-6, 2011. DOI:  0.7763/IJCEE.2013.V5.651
+Annapurna P Patil, Harish R, " Comparing the Performance of Reactive and Hybrid Routing Algorithms in MANETs using Convergence Time", Seventh International Conference on Wireless and Optical Communications Networks WOCN2010 ,6-8th of September, 2010, Colombo, Sri Lanka. DOI: 10.1109/WOCN.2010.5587349.
+Archana Tainwala, Deepthi Shetty, Annapurna P Patil, "Dynamic Decision Making on the Data Structures based on the Number of Records in the Database", The First International Workshop on Ad Hoc & Ubiquitous Computing (AUC-2009).
+Annapurna P Patil, Raj Kumar, "Applying Antnet for routing in static networks", International Conference on Advances in Information and Communication Technology ICICOT07), Poster Paper, Manipal, December 28, 29 2007.
+Annapurna and Dr. K S Ramanatha, "Distributed University Examination System Development Using CORBA Technology", National Conference on Advance Computing, PSG College, Coimbatore Feb 2002
+
+
+~Research Publication
+Kavya S, S Seema, "Searching the Web Querying services over ontological process", IJARCCE
+Rashmi Muniraj, S Seema, "Design and Implementation of Health care Tool that provides suggestions and Doctors Appointment", IJARCCE
+Seema S, Supriya Jois, Bhavana C," Analysis of Gene expression data using ensemble of feature selection and Classification", International Journal of Pharmaceutical and Health Sciences, K G Srinivasa, S Seema and Manoj Jaiswal Modeling of time series microarray data using dynamic Bayesian network, Retrovirology 2009
+Ashvini D V, S Seema, "Machine Learning Approach to Detect Tuberculosis in patients with or without HIV co-infection – A Survey", International Journal of Computer Science and Information Technology,
+Seema S, "Classification Of Evolving Stream Data Using Improved Ensemble Classifier", International Journal on Data Mining and Knowledge Management Process,
+Seema S, K S Ramanatha, "Modified Genetic algorithm for the inference of Gene regulatory network", ISB 2010, International Symposium on Biocomputing, Feb 15-17, 2010, ACM, Calicut India, Kerala.
+Seema S, Srinivasa K G, Sujana, Vidya , Soumya H D,"Association Rule Mining for the Identification of Activators from Gene Regulatory Network ", ACC 2011, International Conference on Advances in Computing and Communication, 26-28 Feb 2011, Kochi, Kerala, Communications in Computer and Information Science Volume 190, 2011,Springer Publications
+Seema S Hamida Honnalli, "Review on Classification of Genes and Biomarker Identification", International Journal of Computer Applications.
+Disha D N, Sowmya B J, Chetan Shetty and Dr. Seema S, "An Efficient Framework of Data Mining and its Analytics on Massive Streams of Big Data Repositories", accepted by International conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER 2016) to be held during 13-14 August 2016, NITK Suratkal.
+
+
+~Research Publication
+"Statistical and analytical study of guided abstractive text summarization"
+"Summarizing news paper articles": Experiments with ontology-based, customized, extractive text summary and word scoring, Cybernetics and Information Technologies, Vol.12, No.2, Sofia 2012, Bulgarian Academy of Sciences, ISSN: 1314-4081. SJR: 0.212. H index: 2.
+"Comprehensive Analysis of Guided Abstractive Text Summarization", International Journal of Computer Science Issues (IJCSI), Volume 11, Issue 5, September 2014. ISSN (online): 1694-0784, ISSN (print): 1694-0814, IF: 0.242.
+"An Approach for Big Data Analyics on Log Data of Medical Devices in Healthcare", International Journal of Applied Engineering Research, Vol. 10, No. 9, 2015, pp: 23923-23932, ISSN: 0973-4562, Research India Publications.
+"A Study on Different Face Recognition Algorithms on Identical Twins Database", International Journal of Applied Engineering Research, Vol. 10, No. 9, 2015, pp: 23923-23932, ISSN: 0973-4562, Research India Publications.
+"Extraction and Interpretation of Charts in Technical Documents", Second International Conference on Advances in Computing, Communications and Informatics (ICACCI 2013), IEEE Catalog Number: CFP13CAF-CDR, ISBN: 978-1-4673-6215-3, August 22-25, 2013, SJCE, Mysore, India. DOI: 10.1109/ICACCI.2013.6637202, INSPEC Accession Number: 13861327.
+"Information Extraction by an Abstractive Text Summarization for an Indian Regional Language", The 7th International Conference on Natural Language Processing and Knowledge Engineering, IEEE NLP-KE 2011, Nov 27-29, 2011, Tokushima, Japan. DOI: 10.1109/NLPKE.2011.6138217, INSPEC Accession Number: 12495964.
+"Information Retrieval by Text Summarization for an Indian Regional Language", 6th International Conference on Natural Language Processing and Knowledge Engineering, IEEE NLP-KE 2010, August 21-23, 2010, Beijing, China, IEEE Catalog Number: CFP10811-PRT, ISBN:978-1-4244-6897-3, pp. 596-599. DOI: 10.1109/NLPKE.2010.5587764, INSPEC Accession Number: 11568284.
+"sArAmsha - A Kannada abstractive summarizer", International Conference on Advances in Computing, Communications and Informatics (ICACCI), 2013, Pages: 540 - 544, DOI: 10.1109/ICACCI.2013.6637229
+"Facial recognition using discrete ABC", International Conference on Advances in Computing, Communications and Informatics (ICACCI), 2016 Pages: 2425 - 2429, DOI: 10.1109/ICACCI.2016.7732420
+
+
+~Research Publication
+Jayalakshmi, D. S., & Srinivasan, R. (2017). "Simulation of MapReduce Across Geographically Distributed Datacentres Using CloudSim". In P. Krishnan, P. Radha Krishna, & L. Parida (Eds.), Distributed Computing and Internet Technology: 13th International Conference, ICDCIT 2017, Bhubaneswar, India, January 13-16, 2017, Proceedings (pp. 70–81). LNCS, Cham: Springer International Publishing. http://doi.org/10.1007/978-3-319-50472-8_6
+Jayalakshmi, D.S., Ranjana, T.R. and Ramaswamy, S., 2016, January. "Dynamic Data Replication Across Geo-Distributed Cloud Data Centres". In International Conference on Distributed Computing and Internet Technology (pp. 182-187). LNCS, Springer International Publishing.
+Jayalakshmi . D. S., Rashmi Ranjana T. P. and R. Srinivasan, "Dynamic Data Replication Strategy in Cloud Environments," 2015 Fifth International Conference on Advances in Computing and Communications (ICACC), Kochi, 2015, pp. 102-105. doi: 10.1109/ICACC.2015.79
+Jayalakshmi . D. S., Rashmi Ranjana T. P. and R. Srinivasan, "On Replication Strategies for Data Intensive Cloud Applications" (2015), in International Journal of Computer Science and Information Technologies, Vol. 6 (3) , 2015, 2479-2484
+Jayalakshmi D. S., , R. Srinivasan and K. G. Srinivasa. "Data Intensive Cloud Computing: Issues and Challenges." In Advanced Research on Cloud Computing Design and Applications, ed. Shadi Aljawarneh, 305-320 (2015),doi:10.4018/978-1-4666-8676-2.ch019
+Soumya B and Jayalakshmi D S, " A New Approach To Develop a Test Automation Framework" , in International Conference on Soft Computing, Intelligent Systems and Applications(ASISA 2016), April 2016, Springer
+Mangala K Pai, DS Jayalakshmi, " Survey on Privacy and Data Security Issues in Cloud Computing", in International Journal of Engineering and Advanced Technology (IJEAT) ISSN: 2249 – 8958, Volume-2, Issue-5, June 2013
+Jayalakshmi D S, Kumudha K N, Tejala T, Veena Pilli, "An Empirical Comparative Study and Optimization of the Hadoop Scheduler", in International Conference on Emerging Trends in Electrical, Electronics and Communication Technologies-ICECIT, 2012, Pages 350-356, Elsevier - S&T books
+Sneha, S., Jayalakshmi, D. S., Shruthi, J., & Shetty, U. R. (2014). "Recommending Music by Combining Content-Based and Collaborative Filtering with User Preferences ", in Proceedings of International Conference Emerging Research in Electronics, Computer Science and Technology ICERECT 2012, Volume 248 of the series Lecture Notes in Electrical Engineering, pp 507-515, http://doi.org/10.1007/978-81-322-1157-0
+D. S. Jayalakshmi and V. K. Ananthashayana, "Robust Reconstruction from Arbitrary Portions of Holographic Representation of Images" International Conference on Computational Intelligence and Multimedia Applications (ICCIMA 2007), Sivakasi, Tamil Nadu, 2007, pp. 287-295. in IEEE Xplore, doi: 10.1109/ICCIMA.2007.295
+
+
+~Research Publication
+"A Survey of Congestion in Wireless Sensor Networks" ,IEEE-International Conference on Advances in Human Machine Interaction (HMI - 2016), March 03-05, 2016, R. L. Jalappa Institute of Technology, Doddaballapur, Bangalore, India
+"ZigBee based Wireless Sensor Networks in Precision Agriculture- The Survey "International Journal of Application or Innovation in Engineering & Management (IJAIEM),Volume 4, Issue 5, May 2015 ISSN 2319-4847
+"Smart Crop Monitoring Using Cooja Network Simulator", IJAER journal, Vol. 70, Iss. 10, Jul-2015, SCOPUS Index journal, Print ISSN 0973-4562, Online ISSN 1087—1090
+"A survey on providing security to the wireless sensor networks integrated with IOT", International Journal of Engineering and Technical Research, Volume-2, Issue-12,pp.202-205,December 2014.
+"A Survey on Minimizing Energy Consumption and Maximizing Network Life Time in Wireless Sensor Networks", International Journal of Engineering and Technical Research,Volume-2, Issue-12,pp.284-287,December 2014.
+"Comparison of Energy Efficient Clustering Protocols for Heterogeneous Wireless Sensor Networks", International Journal of Engineering Research and Technology ,Nov 2013, vol.2 Issue 11
+"Hybrid Energy Efficient Protocol for Stable Concentric Clustering in Heterogenous Wireless Sensor Networks", International Journal Of Computer Applications, July 2013,vol.73, No. 2, 48-52
+"Clustering in Wireless Sensor Networks Performance Comparison of EAMMH and LEACH Protocols using MATLAB", Advanced Materials Research, Vol. 705, 2013,pp. 337-342.
+"Energy Aware Multi-hop Multi-path Hierarchical (EAMMH) Routing Protocol in Wireless Sensor Networks", European Journal of Scientific Research, Vol. 88 No 4 Oct, 2012, pp. 520-530.
+"Energy Efficient Clustering and Grid based Routing in Wireless Sensor Networks", Proceedings of International Conference on Advances in Computing, ICAdC-12© Springer India 2012,July 2012,pp.69-74. http://link.springer.com/chapter/10.1007%2F978-81-322-0740-5_9
+
+
+~Research Publication
+"Prevention of DDos Attacks in Sdn by Using Virtual Ip Addresses" published in Journal of Advances in Science and Technology Vol. 12, Issue No. 25, December-2016, ISSN 2230-9659
+"IoT Enabled Integrated Intelligence System for Automatic Pothole Detection, Pollution Monitoring, Post Accident Medical Response and Breakdown Assistance" International Research Symposium on Computing and Network Sustainability IRSCNS 2016 Springer LNNS series July 1st 2016.
+"Implementation of Virtual Class using WebRTC" is published in International Journal of Innovative Research in Science & Engineering (IJIRSE) ISSN: 2347-3207 Volume 3 Issue3 pp.66-69 March 2015. Impact factor 0.66.
+"WebGIS– Based Solution for Parking Slot Allotment in Defoliated Area" is published in International Journal on Recent and Innovation Trends in Computing and Communication (IJRITCC) ISSN: 2321-81692934 - 2937Volume: 3 Issue: 5 pp 2934-2937 May 2015. Impact factor: 5.837.
+"Build Automation on an Order Management System" is published in International Journal on Recent and Innovation Trends in Computing and Communication (IJRITCC) ISSN: 2321-8169Volume: 3 Issue: 6 pp 4214 - 4217
+"Smart Waste Collecting Hopper (SWaCH) A Service for All", 9th and 10th September 2015, Twelfth IEEE and IFIP International Conference on Wireless and Optical Communications Networks (WOCN 2015) conducted at MSRIT 978-1-4673-9277-8/15/$31.00 ©2015 IEEE
+"DDoS Attack Detection Using Cooperative Overlay Networks and Gossip Protocol", June 15 Volume 3 Issue 6 , International Journal on Recent and Innovation Trends in Computing and Communication (IJRITCC), ISSN: 2321-8169, PP: 3614 - 3617
+"Netstalker: A packet capture and analysis tool" August 2014 Volume 1 Issue 4 International Journal of Advances in Engineering & cientific Research (IJAESR) ISSN: 2349 –3607 (Online) ISSN: 2349 –4824 (Print) pp. 45-51
+"Traffic Dissector Discover and Inspect your network" June 2014 Volume 1 Issue 2 International Journal of Advances in Engineering & Scientific Research (IJAESR) ISSN: 2349 –3607 (Online) ISSN: 2349 –4824 (Print) pp. 21-30.
+"Mobility Assisted Routing In MANET Using AODV" september 2013 Volume 4, Issue 9 International Journal of Scientific and Engineering Research (IJSER) - (ISSN 2229-5518) pp: 679-682.
+
+
+~Research Publication
+Program Organizer of workshop on "Educational data mining using R and Python" , in The 8th IEEE International Conference on Technology for Education, December 2-4, 2016, Indian Institute of Technology, Bombay, Mumbai
+Program Organizer of workshop on "The 1st International Workshop on Recommendation systems supported Teaching and Learning Environments" , in The 24th International Conference on Computers in Education, IIT Bombay, India Nov 28th - Dec 2nd 2016
+Parkavi.A , Satheesh.A, "Open Educational Resources to Improve Students’ Learning & Performance: A Case Study with Practitioner’s Approach", International Conference on Computers in Education 2016, IIT Bombay, India Nov 28th - Dec 2nd 2016
+Parkavi.A, "Course Knolwedge assessment tool using Python", The 1st International Workshop on Recommendation systems supported Teaching and Learning Environments, International Conference on Computers in Education 2016, IIT Bombay, India Nov 28t- Dec 2nd 2016.
+Parkavi.A, Dr.N.Vetrivelan, "A Strategic Approach for determining students Specialization", 7th IEEE-International conference on Technology for Education(Poster Paper presented), NIT,Warangal,10-12,Dec,2015
+Parkavi.A, Dr.N.Vetrivelan , "Flipped Course – A Go Free and Go Green Approach", CSI Communications, August 2015,Pno 27-28
+Parkavi.A, Dr.N.Vetrivelan , "A Flipped Course Delivery – A Practitioner approach with a Case study" , Educational research and reviews, Academic Journals, Kenya,July 2015,Vol.10,Num13
+Parkavi.A, Dr.N.Vetrivelan , "A Flipped Selection: Strategic Approach for Project" ,International Journal of Applied Engineering Research,July,2015
+Jyothi.N.S, Parkavi.A , "A study on task management system", IEEE sponsored International Conference On Research Advances in Integrated Navigation Systems (RAINS 2016), R. L. Jalappa Institute of Technology, Bangalore, 06 May - 07 May 2016.
+Parkavi.A, Likitha. K., "Recommendation Engine to Improvise Curriculum of OBE by using Comparative Analysis of Institutional Curriculum with Industrial Requirements", International Conference on Soft Computing, Intelligent Systems and Applications by Springer Advances in Intelligent Systems and Computing Series, ASISA 2016, 8-9,April,2016 , RL Jalappa Institute of Technology, Bangalore.
+
+
+~Research Publication
+"International Conference on Soft Computing" ,Intelligent systems and Application(ASISA 2016) a Springer aise " Discovering Frequent Itemsets over Event Logs Using ECLAT Algorithm" from Sundeep A.S. and Veena.G.S. held on April 8-9,2016 Organised by R.L Jalappa Institute of Technology, Doddaaballapur, Bangalore,India.with ISSN 2194-5357.
+"International Conference on Computational System and Information Systems for Sustainable Solutions(CSITSS)"Kannada handwritten Word Conversion to Electronic Textual Format Using HMM Model" Held on Oct-06-08th ,2016Organised by R.V.College of Engineering, Bangalore,India with ISBN 978-1-5090-1022-6 ,IEEE
+"Handwritten off line Kannada Character Recognition Using Hidden Markovs Model" is registered for ICCR 2016.It is a LNNS Series springer publish
+Veena.G.S. and Akshay Parvatikar" Use of Hidden Markov’s Model for Handwritten Kannada Character Recognition"published in/ (IJCSIT) International Journal of Computer Science and Information Technologies, Vol. 6 (3) , 2015, 2959-2960.with ISSN09/5-9646
+Veena.G.S., Dr. T NR Kumar , Chandrika Prasad " Conversion of Handwritten Document into text using SVM and Unicode Mapping " published in NCILC 2015 ,Cochin hwls 17-18 january ,Cusat ,Kerala India, with ISBN 978-80095-61-5
+Sudhin S, Jayalakshmi D.S, Veena G.S "Object Detection Using Semantic Segmentation With Fisher Vector"published inInternational Journal of Advanced Research in Computer and Communication EngineeringVol. 3, Issue 6,June 2014
+ONKAR S. KATAGI, JAYALAKSHMI D S,VEENA G S "Video Based Crowd Density analysis for Visual Surveillance "published by International Journal of Advanced Research in Computer and Communication Engineering Vol. 3, Issue 6,June 2014 with ISSN (Online) : 2278-1021 ISSN (Print) : 2319-5940
+Veena.G.S., Chandrika Prasad, Khallel R. "AUTOMATIC THEFT SECURITY SYSTEM(SMART SURVEILLANCE CAMERA)",published in Natarajan Meghanathan et al. (Eds) : ITCSE, ICDIP, ICAIT - 2013pp. 75–87, 2013. © CS & IT-CSCP 2013 DOI : 10.5121/csit.2013.3908
+Veena.G.S., Sneha.H,Ramya K. and Anupama Athreyas "Handwritten Character Recognition Using ChainCode and SVM", Published in ICACCI proceedings of 2013 under Student Research Symposium(SRS2013), DOI: 10.3850/978-981-07-7393-9 071. held in Mysore on 23rd of Aug 2013.
+Veena G S Thirumaleshwara Reddy, " Classifying the human using K-means and defining the actions in video using vector", International Conference on Computer Science and Information Technology, Sept 2010, Doddaballapura, Karnataka
+
+
+~Research Publication
+Sunita Ashok Patil ,Geetha J ,"Integrated Deadline Scheduling with Map Reduce Tasks in Hadoop", International Journal of scientific Research and Development 2015
+Geetha j , uday Bhaskar,p chenna reddy , Neha P, "Hadoop Scheduler with Deadline Constraint", International Journal on Cloud Computing: Services and Architecture (IJCCSA) ,Vol. 4, No. 5, October 2014.
+Geetha j, uday Bhaskar, p chenna reddy "Green Scheduling: Supporting Energy Efficient Scheduling In Hadoop" CISP 2013 Government Engineering College Wayanad, Mananthavady, Kerala, march 2013
+Savitha. P, J Geetha Reddy, "A Review Work On Task Scheduling In Cloud Computing Using Genetic Algorithm", International journal of scientific & technology research volume 2, issue 8, august 2013. data Local Reduce task Scheduling
+Geetha j ,Rajeshwari S.B, N uday Bhaskar, p chenna reddy "An Efficient Profit-based Job Scheduling Strategy for Service Providers in Cloud Computing Systems" , International Journal of Application or Innovation in Engineering & Management (IJAIEM) Volume 2, Issue 1, and January 2013.
+
+
+~Research Publication
+T.N.R.Kumar, S. K. Srivatsa and Murali, "Location and Detection of Text in a Video", Springer Link, 2012, pp 9-17.
+T.N.R.Kumar, S. K. Srivatsa, "Location and Detection of Text in a Video", International Journal of Engineering Science Invention ISSN (Online): 2319 – 6734, ISSN (Print): 2319 – 6726. www.ijesi.org Volume 2 Issue 5 ? May. 2013 ? PP.20-25. 
+Sneha T.N.R.Kumar "Automation on command line interface" International Journal of Computer Applications".
+T.N.R.Kumar " A Real Time Approach for Indian Road Analysis using Image Processing and Computer Vision" International organization of Scientific Research Journal of Computer Engineering Volume 17 Issue 4 August 2015 PP.1-10
+Madhusudan G, T.N.R.Kumar "MINIMUM ENERGY CONSUMPTION IN ROUTING OF MOBILE AD HOC NETWORK"
+"IRACST – International Journal of Computer Networks and Wireless Communications" Vol.6, No 4, July-August 2016.
+Madhusudan G, T.N.R.Kumar, "Simulation of Mobile Backbone Network" International Journal of Computer Networks and Communications Security VOL. 4, NO. 7, JULY 2016, 213–217.
+Madhusudan G, T.N.R.Kumar, "MODRP: Multipath on-Demand Routing Protocol for MANET "International Journal of Wireless Communications and Networking Technologies Volume 5, No.4, June - July 2016
+T.N.R.Kumar, S. K. Srivatsa, "Location and Detection of Text in a Video", National Conference on Recent Trends on Computers & Information Technology 2013, Department of ISE,SET, Jain University Bangalore
+Veena G.S., T.N.R.Kumar, Chandrika Prasad, " Conversion of Hand written document in to text using SVM and Unicode mapping " National conference of Indian language Computing 2015 Kochi Kerala pp14-20.
+Nagesh, T.N.R.Kumar, "Cloud based Adaptive Mobile Video streaming and efficient social video sharing" 2nd International conference on Data Engineering and Communications Systems held in RNSIT Bangalore
+
+
+~Research Publication
+Mamatha V, "Reliable Graph- Based routing in Vanet Environment, International Conference on Computing of Power, Energy & Communication, ICCPEIC -2015, 22-23, April 2015, Adhiparasakthi Engineering College, Melmaruvathur, kanchipuram.
+Mamatha V,Manikanta, "Evaluation of Modified PLS Regression Method to Fill The Missing Values in Training Dataset", IEEE International Conferaence on Smart Sensors And Systems , 21-23 December 2015 MSRIT, Bangalore, India
+Mamatha V, Manju Dhiman, "RELIABLE GRAPH- BASED ROUTING IN VANET ENVIRONMENT in Computation of Power", Energy Information and Communication (ICCPEIC), 2015 International Conference page nos 0235 - 0238 ISBN:978-1-467365246, Melmaruvathur,Chennai DOI:10.1109/ICCPEIC.2015.7259469 Publisher: IEEE 22-23 April 2015
+Mamatha V, Shobha K, "Simulation of a Secure Efficient Dynamic Routing In Wireless Sensor Network International Journal of Engineering and Advanced Technology (IJEAT)" ISSN: 2249 – 8958, Volume-2, Issue-5, June 2013
+Mamatha V, Shobha K, "Develop and Simulate a Secure Efficient Dynamic Routing Using Protocol in Wireless Sensor Network" International Journal of Engineering and Innovative Technology (IJEIT) Volume 2, Issue 6, December 2012
+Mamatha V, Suvarna L Kattimani, "Effective Detection Mechanism for TCP based Hybrid Covert Channels in Secure Communication" is published in ICETECT 2011 IEEE digital explore, pg nos 1123-1127 Nagercoil Tamilnadu.
+Anjan K, Jibi Abraham, Mamatha V: "Design of Transport Layer Based Hybrid Covert Channel Detection Engine", International Journal of Adhoc and UBIQUITIOUS Computing, AIRCE, Dec 2010, pg no. 93 -100.
+Mamatha V "A Multi tracker Bit Torrent for Mobile Adhoc Networks" , National Conference on Computer Networks NCCN February 20-21 2009 pg no 119
+
+~Research Publication
+none
+
+~Research Publication
+"International Journal of Scientific and Engineering Research (IJSER) with impact factor 1.4", January 2014 Edition. IJSER Elsevier 
+"Mobile and Pervasive computing Grace Hopper Conference ISCCC" 2009 RAFIT 2009 T4E 2014- Technology for education
+
+
+~Research Publication
+Princy Sisodiya and Vandana S Sardar, (2016) "Evaluation of Information Retrieval Systems using Various Measures" Proc. Seventh International Conference on Advances in Computing, Control, and Telecommunication Technologies - ACT 2016, pp 252-258
+Srinidhi, Ajeet Jha ,Meeradevi, Vandana Sardar, Manoranjitham (2014) , "A Scalable Protocol Agnostic Backup Server Fourth IEEE International Conference on Information Communication & Embedded Systems" ICICES-2014 , at S. A. Engineering College, Chennai.
+Vandana S Sardar, A K meeradevi, R. Manaranjithm(2013) " Intrusion Detection and Prevention System in n-tier Web Applications" Proc. International conference on Emerging Computation & Information Technologies, SIT, Tumkur, Karnataka, Elsevier Publications 2013, pg. 433-440
+Sardar V. S. and Phalke D. A. (2008), "Exploiting Libtiff Library for Offline Handwriting Recognition" Proc. International Conference on Emerging Trends In Technology at Pravaranagar, Maharashtra, pp.6
+Sardar V. S. and Sawant H. K. (2007), "Segmentation in Offline Handwriting Recognition Using Libtiff Library" Proc. International Conference on Systemics, Cybernetics and Informatics (ICSCI-2008), Pentagram Research Centre Pvt. Ltd. Hyderabad, Andhra Pradesh, pp. 424-427
+Sardar V. S. and Sawant H. K. (2008), "Offline Handwriting Recognition Using Libtiff Library" Proc. National Conference on Engineering Applications of Mathematics, Maharashtra Academy of Engineering, Alandi, Pune, Maharashtra, pp.23-24
+Sardar V. S. and Phalke D. A. and (2007), "Offline Handwriting Recognition" Proc. National Conference – Technobuzz 2007, Sou. Venutai Chavan Polytechnic, Pune, Maharashtra.
+Sardar V. S. and Phalke D. A. (2006), "Preprocessing for Image Compression and Offline Handwriting Recognition" Proc. National Conference – TsyGeca(2006), Govt. College of Engineering, Aurangabad, Maharashtra, pp. 143-146.
+
+
+~Research Publication
+Meeradevi, Monica R Mundada, "Real Time Monitoring of Environmental Parameters in Precision Agriculture using Wireless Sensor Network", indexed by Springer, September 2016, http://www.esjournals.org/Indexing.php
+Meeradevi, Monica R Mundada, Anita," optimization of energy efficiency using cluster tree based data aggregation topology for wireless sensor networks", Seventh International Conference on Advances in Computing, Control, and Telecommunication Technologies - ACT 2016 June 2016
+Meeradevi, Monica R Mundada,"A New Approach to Develop a Network Traffic Analyzer Using Software Defined Networking", International Conference on Soft Computing, Intelligent Systems and Applications, published in Springer Advances in Intelligent Systems and Computing Series, May 2016
+Meeradevi, Monica R Mundada,"A Survey of Congestion in Wireless Sensor Networks International Conference on Advances in Human Machine Interaction (HMI - 2016)", 978-1-4673-8810-8/16/$31.00 ©2016 IEEE, March 2016
+MeeradeviA K, Dr. Monica R Mundada " ZigBee based Wireless Sensor Networks in Precision Agriculture- The Survey" International Journal of Application or Innovation in Engineering & Management (IJAIEM),Volume 4, Issue 5, May 2015.
+Sumesh, Meeradevi A K "Remote Tracking of Android Smartphone" Published in International Journal of Research in Information Technology (IJRIT), Volume 2, Issue 4, page No.1107-1109, July 2014 ISSN: 2320-5547
+Shrinidhi H, Ajeeth, Meeradevi et al., "A Scalable Protocol Agnostic Backup Server published in International Conference on Information Communication & Embedded Systems" (ICICES 2014) Published in IEEE, ISBN No.978-1-4799-3834-6/14, 27 Feb 2014.
+Vandana S, Manoranjitham, Meeradevi A K "Intrusion Detection and Prevention System in n-tire Web Application" published in International Conference on Emerging Computation and Information Technologies (ICECIT-2013) Page No.433-440 23 Nov 2013 ISBN: 978-93-5107-176-1 Published in Elsevier.
+
+
+~Research Publication
+"Intelligent Transportation System based on the Principles of Service-Oriented Architecture", Twelfth IEEE and IFIP International Conference on Wireless and Optical Communication Networks
+"Current Existing Standards and Techniques in Web Service Security", GURU NANAK DEV ENGINEERING COLLEGE,BIDAR, NATIONAL CONFERENCE ON RECENT TRENDS IN COMPUTER SCIENCE & INFORMATION TECHNOLOGY
+"Imperial Journal of Interdisciplinary Research (IJIR)Time Evolving Rating Prediction with Privacy Preserving and Defending Sybil Attack in Online Services"
+
+
+~Research Publication
+"Framework for reducing post production defects in software industry", International Journal of Scientific & Engineering Research, Volume 6, Issue 3, March -2015 ISSN 2229-5518
+"Pattern Analysis of Post Production Defects in Software Industry" Divakar Harekal, Jawahar J. Rao, V. Suma, Proceedings of the 3rd International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA) 2014.Volume2 http://link.springer.com/book/10.1007/978-3-319-12012-6
+"Implication of Post Production Defects in Software Industries", International Journal of Computer Applications (IJCA) January 2015 Edition.
+"mHealth Mobile Phone based Patient Compliance System " International Journal of Computer Applications (0975 – 8887) Volume 79 – No8, October 2013
+"Survey on Low Cost and Secure Routing Protocol for Wireless Sensor Networks Journal": Computing Surveys Manuscript ID CSUR-2016-0066 Paper: Regular Paper Date Submitted by the Author: 16-Feb-2016 Complete List of Authors: vyas, susheel Computing Classification Systems
+"Smart Healthcare Management Framework " International Conference on soft computing , intelligent systems and Applications (ASISA 2106) RL Jallapa Institute of Technology Bangalore April 8-9 2016
+"Knowledge and Defect Management Approaches to Software Industries " on 19th May 2015. 7th National Conference at SJB Institute of Technology Bangalore and Presented
+"Knowledge of Cost Quality Analysis to Reduce Defect Injection Verses Defect Detection Rate during Software Development Process", National Conference on Research Aspects in Management Prospects & Entrepreneurship Development Perspectives, by National Foundation for Entrepreneurship Development (NFED) & Saveetha School of Management (SSM), Saveetha University - Chennai - 7th February 2015.
+"Pattern Analysis of Post Production Defects in Software Industry", 3rd International Conference on Frontiers in Intelligent Computing Theory & Applications (FICTA), 14th-15th November, 2014 Bhubaneswar, India.Index: Springer, ISI Proceedings, DBLP, Ulrich's, EI-Compendex, SCOPUS, Zentralblatt Math, MetaPressWeb Link: http://link.springer.com/chapter/10.1007%2F978-3-319-12012-6_74
+" Implications of Post Production Defects in Software Industries", II International Conference on Communication, Computing and Information Technology, 12th-13th December, 2014, Chennai, India
+
+
+~Research Publication
+Chandrika Prasad, Jagadish S Kallimani, "A Novel Approach to Identify Polysemy Words in Indian Regional Language"
+Chandrika Prasad, Varun H.M, Yashswini, Suhas T "Scalability in Virtulization" presented at ICECIT-2015, Springer(weblink to be given)
+Veena.G.S., Dr. T NR Kumar , Chandrika Prasad "Conversion of Handwritten Document into text using SVM and Unicode Mapping" published in NCILC 2015 Cochin hwls 17-18 january ,Cusat ,Kerala India, with ISBN 978-80095-61-5
+Chandrika Prasad, Veena G. S "Achieving low latency networks through high performance computing," International Journal of Advanced Research in Computer and Communication Engineering Vol. 3, Issue 12, December 2014, ISSN (Online) : 278-1021, ISSN (Print) : 2319-5940 DOI10.17148/IJARCCE.2014.31220
+Veena.G.S., Chandrika Prasad, Khallel R. "AUTOMATIC THEFT SECURITY SYSTEM(SMART SURVEILLANCE CAMERA)", published in Natarajan Meghanathanet al. (Eds) : ITCSE, ICDIP, ICAIT - 2013pp. 75–87, 2013.©CS&IT-CSCP2013 DOI : 10.5121/csit.2013.390
+
+~Research Publication
+S.Rajarajeswari,Vastav C "A Survey on Implicit Shuffling for Effective Data Movement in MapReduce" International Conference on Advances in Soft Computing, Intelligent Systems and Applications ASISA 2016 April 8-9, 2016 Springer Advances in Intelligent Systems and Computing Series
+S.Rajarajeswari, Chitra MP "Transforming Data center services onto cloud" International Conference on Advances in Soft Computing, Intelligent Systems and Applications ASISA 2016 April 8-9, 2016 Springer Advances in Intelligent Systems and Computing Series
+S.Rajarajeswari, Tulasi srinivas " Empirical Analysis of Location Based Service Approaches to Preserve Privacy: A Cloud Computing Approach." International Journal of Applied Engineering Research ISSN 0973-4562 Volume 10, Number 9 (2015) © Research India Publications ::: http://www.ripublication.com (Scopus Indexed)
+S.Rajarajeswari, K.Somasundaram, "Data Cleansing using Probabilistic classification for prediction of heart disease" International Journal of Applied Engineering Research ISSN 0973-4562 Volume 10, Number 9 (2015)© Research India Publications ::: http://www.ripublication.com (Scopus Indexed)
+S.Rajarajeswari, K.Somasundaram"Data Cleansing using Automated Extraction Tools" Advances in Natural and Applied Sciences10(5); Pages: 68-78 May 2016,ISSN: 1995-0772 http://www.aensiweb.net/AENSIWEB/anas/anas_May_2016.html (Scopus Indexed)
+S.Rajarajeswari, K.Somasundaram "Data confidentiality and privacy in cloud computing "Indian Journal of Science and Technology,vol 9(4), DOI: 10.17485/ijst/2016/v9i4/87040, January 2016 ISSN (Online) : 0974-5645 http://www.indjst.org/index.php/indjst/article/view/87040 	(Scopus Indexed)
+S.Rajarajeswari, K.Somasundaram "Data cleansing as a service using Statistical model in cloud computing" International Conference on Engineering Technology and Science (ICETS’16) 18th & 19th March
+S.Rajarajeswari, K.Somasundaram, " Non Linear time Series Methods to Predict Chaos in Neural Networks using Adaptive algorithm" Pg: 317 International conference on Emerging Computation and Information Technologies (ICECIT – 2013) 22-23 Nov 2013 ISBN:978-93-5107-176-1 Elsevier.
+S.Rajarajeswari, K.Somasundaram, "Chaotic time series forecasting using ASBO based evolution of TDNN " Vol 75, No. 10;Oct 2013 Pensee Journal http://www.penseejournal.com/auto/index.php/acceptance/index/KDSuCah/1378539781
+S.Rajarajeswari, K.Somasundaram, "An empirical Study of Feature selection for Data classification" Volume 2 Number 3 Issue -5 September 2012 International Journal of Advanced Computer Research page 111- 115 (ISSN (print): 2249-7277 ISSN (online): 2277-7970) Volume-2 Number-3 Issue-5 September-2012 http://accentsjournals.org/paperInfo.php?journalPaperId=417&countPaper=8 http://accentsjournals.org/PaperDirectory/Journal/IJACR/2012/9/19.pdf
+
+
+~Research Publication
+Published a paper titled "Implementation of H.264/AVC Video Authentication System Using Watermark" in International Journal of Computer Engineering In Research Trends, 2016
+Published a paper titled "Implementation of CRBT VAS Using Music Box" in National Conference on Evolutionary Trends in Information Technology ( CETIT 2011 ), May 2011
+Published a paper titled "Probabilistic Packet Marking Algorithm" in National Conference on Computing, Communication and Technology ( CCT-2010 ), January 2010
+
+
+
+~Research Publication
+none
+
+
+~Research Publication
+none
+
+
+~Research Publication
+none
+
+~Research Publication
+"Feedback Analysis of Unstructured data from Collaborative Networking a Big Data Analytics Approach" at I4C2014 held during 21-12 Nov-2014 at MSRIT
+"Rational Value Sequence based Singular Value Decomposition for Facial Recognation".Proceedings of IEEE International Conference ICACCI-13, Mysore-2013
+
+
+
+~Research Publication
+none
+
+
+~Research Publication
+Sowmya B. J, Srinidhi Hiriyannaiah, K. G. Srinivasa, "A Case Study based Software Engineering Education using Open Source Tools", QuASoQ/WAWSE/CMCE@APSEC 2015: 79-88
+Srinidhi Hiriyannaiah, Gaddadevara Matt Siddesh, and Krishnarajanagar GopalaIyengar Srinivasa, "Ubiquitous Computing for Cyber-Physical Systems", Cyber-Physical Systems: A Computational Perspective, Editors - G.M. Siddesh, Ganesh Chandra Deka, K.G. Srinivasa, L.M.Patnaik, NOV 2015.
+Siddesh G M, Srinidhi H, K G Srinivasa, "Driving Big Data with Hadoop Technologies", Cloud Infrastructures for Big Data Analytics, Editors - Pethuru Raj, Ganesh Chandra Deka, A volume in the Advances in Data Mining & Database Management Book Series, IGI Global publishers, pp. 232-262 (Chapter 10), MAR 2013.
+
+
+
+~Research Publication
+"Improving Social Networks for P2p Content and Context Based File Sharing In Mobile Ubiquitous Computing",International Journal of Engineering Trends and Technology (IJETT) – Volume 30 Number 6 - December 2015
+"COMPARISON OF CLUSTERING TECHNIQUES FOR IDENTIFICATION OF MASSES IN MAMMOGRAMS",Proceedings of NCETAIT - 2016
+
+
+~Research Publication
+Published a paper titled "A Robust Slicing Technique for privacy preserving of medical data store" in International Journal of Innovative Research in Computer and Communication Engineering in May 2014
+~Research Publication

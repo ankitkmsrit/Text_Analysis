@@ -1,0 +1,81 @@
+var ID = getParameterByName('ID');
+var dept = getParameterByName('dept');
+var mySpreadsheet;
+switch(dept) {
+case 'architecture':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1MQ3XesK4dT-nnOCNP7J5maRyGVqu0cye2zm5iit9vsg/edit#gid=0';
+	break;
+case 'biotechnology':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/10K3tymYCV11q2_OUOXgFCtc4QlAZbE_erRQAkX4jz0Q/edit#gid=0';
+	break;
+case 'chemical-engineering':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1f90lG9791PFxKST07h_N_TCAJpiw-lwLzf9Lxmegsm0/edit#gid=0';
+	break;
+case 'chemistry':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1ijVTGapbGCpXbfuAAcRtkvtNGnRIhuufOJJuQgHdKI8/edit#gid=0';
+	break;
+case 'civil-engineering':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1L5Jd-EQfBUpbw_4hQNYLeefPaWDOuxiw6ubipBPZLRE/edit#gid=0';
+	break;
+case 'cse':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1afTdPh2inIFFB471lu4jIzrv3alswZUrcltVGqu82MY/edit#gid=0';
+	break;
+case 'ece':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1e0rXgcAMLMiCXJUPEhXOS02JJIO0IwU2wn_7INWg6ns/edit#gid=0';
+	break;
+case 'eie':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1aTa-A2A2ZM96UzSdz2fuV6VxJ6TMcCbdsZzFu2EbDA8/edit#gid=0';	
+	break;
+case 'eee':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1KMpPoWw6u1Gxze-ilu2JCAX3CSgwogVrSLJsLOy7hxY/edit#gid=0';
+	break;
+case 'humanities':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1glmUm8YbiJEusSsHkKNOVxOHUzjcVChKF6x2sON2F-o/edit#gid=0';
+	break;
+case 'iem':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1bCsYAy4tu0D_nkMda7lFueOKS9XDITIDK_x4zQLcOSM/edit#gid=0';
+	break;
+case 'ise':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/14WwtqfvjgvM80thm5sWxtfkPpAPCYQl8mv30bhGF-3M/edit#gid=0';
+	break;
+case 'maths':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/19p1_rpDJLIoINIAVuJHuq4Ydign6CGXyKZ-khFPBRt0/edit#gid=0';
+	break;
+case 'mba':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1hpykmjCwcJzdnKkOIti7B99OAb0h9271zoii7O_sUdo/edit#gid=0';
+	break;
+case 'mca':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1sQHQiLiQyw2G-6DJNlLBw3eBWyyE1HxxvjcEJefvGKc/edit#gid=0';
+	break;
+case 'me':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1so4Ejg9o4y0ZkzsLEcxGeSI-WVQ-WflilQByBrn2sz8/edit#gid=0';
+	break;
+case 'medical-electronics':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1nliOmP_QZBC2DAQ0QB6ii5sfix-CE8_GRlLoE-1GkiM/edit#gid=0';
+	break;
+case 'physics':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1BH6ir0ptmkp21UwkUG1axTzZI58ugmSz4dz1OPB2UqA/edit#gid=0';
+	break;
+case 'te':
+	mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1OI-Jsjt46ohpFThdbucj7VmyBdEg_MPL1Mu66b3PYbg/edit#gid=0';
+	break;
+}
+
+// Compile Handlebars template for team RBI leaders.
+var RBITemplate = Handlebars.compile($('#team-rbi-template').html());
+
+var ID = getParameterByName('ID');
+
+function showPage() {
+	// document.getElementById("loader").style.display = "none";
+}
+
+
+$('#page-main').sheetrock({
+	url : mySpreadsheet,
+	query : "select * where DZ = " + getParameterByName('ID') + " order by DZ asc",
+	formatting : false,
+	rowHandler : RBITemplate,
+	userCallback : showPage()
+});
+
