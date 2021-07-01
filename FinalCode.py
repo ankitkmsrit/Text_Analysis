@@ -1,7 +1,7 @@
 import re
 from Interest import research
 from FieldExtraction import final
-
+#git test
 def tarea():
     li = final()   #li contains the list of faculty with their research publications
     li2 = research()   #li2 conatins the research fields and keyords 
